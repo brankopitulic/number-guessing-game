@@ -1,0 +1,3 @@
+Develop a game where the program randomly selects a number, and the user has
+to guess it. Provide feedback if the guess is too high or too low. This project helps
+you understand loops and conditional statements. 
